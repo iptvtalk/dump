@@ -1,0 +1,412 @@
+=================
+    Potato TV 
+=================
+by: couch potato
+
+
+
+------------------------
+  D I S C L A I M E R
+------------------------
+
+This is a FREE OPEN SOURCE PROJECT. 
+This add-on is NOT FOR SALE but for PRIVATE USAGE ONLY!
+
+"The Coder" DOES NOT host any streams or videos on this addon.
+ 
+All content is copyright of their respective owners. 
+All the links contained within this addon are easily found and located somewhere else on the web. 
+The embedded link points to the location of the video on the web. 
+
+"The Coder" is NOT AFFILIATED WITH any service provider who deliver the feeds.
+
+Furthermore "The Coder" takes NO RESPONSIBILITY for the content or reliability of the feeds. 
+
+Please direct all copyright infringement issues to the companies that host and stream those files. 
+If you find something irregular or some copyright abuse please send a notice via our forum. 
+
+
+Enjoy while you can!
+		
+
+
+
+------------------------
+  R E P O S I T O R Y
+------------------------
+
+https://is.gd/anti_social
+
+
+
+
+------------------------
+v1.9.9-r10  (2017/07/15)
+------------------------
+
+- added a new host for rgturk100's EPG
+
+
+
+
+------------------------
+v1.9.9-r9  (2017/07/14)
+------------------------
+
+- a new EPG source (credits to rgturk100)
+- fixed F4M Proxy settings
+- added more sources for VOD's KIDS
+- fixed boys' toys
+- added more dumps for the extra
+- fixed Favourites
+- fixed minor bugs
+
+
+
+
+------------------------
+v1.9.9-r8  (2017/07/03)
+------------------------
+
+- fixed the link tester
+- added more dumps for the extra
+
+
+
+
+------------------------
+v1.9.9-r7  (2017/06/30)
+------------------------
+
+- fixed cache system
+- added new tweak settings for cache expiry time
+
+
+
+
+------------------------
+v1.9.9-r6  (2017/06/27)
+------------------------
+
+- added a new portal (s2.iptv66.tv)
+- fixed vod tv series filter
+- fixed EPG Time Shift
+- improved the link tester
+- fixed EXODUS API Keys (empty search issue)
+- added a new tool (the EPG Info)
+
+
+
+
+------------------------
+v1.9.9-r5  (2017/06/21)
+------------------------
+
+- added new patch for the 24/7 playlist
+
+
+
+
+------------------------
+v1.9.9-r4  (2017/06/21)
+------------------------
+
+- fixed vod tv series filter
+- improved the link tester
+- added more shows for the extra
+- added more "toys" for boyz
+- fixed minor bugs
+
+
+
+------------------------
+v1.9.9-r3  (2017/06/13)
+------------------------
+
+- added more resources for the extra
+- fixed direct stream link tester 
+
+
+
+------------------------
+v1.9.9-r2  (2017/06/12)
+------------------------
+
+- improved extra features
+- fixed VOD TV Series filter
+- added a new source for EPG (by: Provider)
+- fixed minor issues
+
+
+
+------------------------
+v1.9.9  (2017/06/07)
+------------------------
+
+The HEMORRHOIDS Edition for assholes :p
+
+- fixed the timezone database
+- added EPG Time Shift
+- added a new option for including the VOD with the PVR m3u playlist
+- added season filter for VOD TV Series 
+
+- added a new quest for extra features:
+i.e. Backend Channel Sync, 24/7 Live, IPTV Dumps, Embedded EPG & RECORDING
+
+(Hint: lost, burried & hidden in pile of shit LMFAO)
+
+
+
+------------------------
+v1.4.0-r2  (2017/05/22)
+------------------------
+
+- Improved cache system
+
+
+
+------------------------
+v1.4.0  (2017/05/20)
+------------------------
+
+- Added no-streaming-data detector
+- Added more options for all available Stalker portals
+- Added a new feature: "Add To Favourites" for both IPTV & VOD
+
+
+
+------------------------
+v1.3.1-r2  (2017/05/16)
+------------------------
+
+- Fixed the "Donation Only" account user's issue (Clear Cache: FAILED too many values to unpack)
+
+
+
+------------------------
+v1.3.1  (2017/05/15)
+------------------------
+
+- Fixed the downloader
+
+- Fixed VOD: TV SERIES filter (requires CLEAR CACHES: TV + VOD)
+
+- Fixed VOD KID: SUPERCARTOONS (cookies issue, no need to open the browser anymore)
+
+- Added new items under VOD KID
+
+
+
+------------------------
+v1.3.0  (2017/05/13)
+------------------------
+
+- Fixed VOD filter: LANGUAGE & GENRE
+
+- Rebuild VOD directory
+
+
+
+------------------------
+v1.2.0-r3  (2017/05/12)
+------------------------
+
+- Fixed VOD: TV SERIES filter
+
+
+
+------------------------
+v1.2.0-r2  (2017/05/11)
+------------------------
+
+- Fixed Kodi 17 bug
+
+
+
+------------------------
+v1.2.0  (2017/05/10)
+------------------------
+
+- Added a new directory for VOD (TV SERIES)
+
+- Added a new EXTRA feature (radio streamings)
+
+- Added a new tool (EPG SHRINK - an EPG optimization tool)
+
+
+
+------------------------
+v1.1.2  (2017/05/07)
+------------------------
+
+- Added adult contents filter for VOD
+
+
+
+------------------------
+v1.1.1-r3  (2017/05/06)
+------------------------
+
+- Fixed "Change Password" error
+
+
+
+------------------------
+v1.1.1-r2  (2017/05/04)
+------------------------
+
+- Fixed vod issue
+
+
+
+------------------------
+v1.1.1  (2017/05/03)
+------------------------
+
+- Fixed the cache system ("NoneType' object is not iterable" pvr issue)
+- Fixed the adult contents protector
+- Re-Defined the channel number
+- Added a new filter: LANGUAGE FILTER for PVR 
+
+
+
+------------------------
+v1.1.0-r3  (2017/05/02)
+------------------------
+
+- Fixed the cache system (pvr issue)
+
+
+
+
+------------------------
+v1.1.0-r2  (2017/05/01)
+------------------------
+
+- Fixed missing paths
+- Re-Added the limit for number of movies in VOD
+- Defined a shortcut to call potatoTV addon instantly from the EPG page
+
+
+
+
+------------------------
+v1.1.0  (2017/04/30)
+------------------------
+
+- Improved the caches system
+
+- Fixed the language filter
+
+- some major changes on VOD:
+
+  + Rebuild the whole code based on a new API
+  + Added all available MOVIE INFO (metadata) for all types of accounts, incl. the DONATION ONLY one
+  + a new option to enable/disable metadata (especially for KODI 17 which takes longer time to load than the KODI 16)
+  + Enabled the SORTING feature (by: language (studio), title, year, genre or none/unsorted)
+  + Added all available MOVIE TRAILERS
+  
+- Added a new option to install couch potato's preset keymaps (shortcut)
+
+- Enabled the displaying TV GUIDE in COLOR (credits to psycon)
+
+
+
+
+Offering:  Extra Features  ( requires LOOOOOOOOTS of magic words! lol :p )
+
+- synchronizing channel # with the backend #
+- 24 / 7 live shows
+- radio streaming
+- streaming link tester
+- easter eggs in VOD (adult contents lol)
+
+
+
+
+------------------------
+v1.0.5-r2  (2017/04/26)
+------------------------
+
+- Fixed the iptv logo & vod poster path
+
+
+
+------------------------
+v1.0.5-r1  (2017/04/18)
+------------------------
+
+- Improved the caches system
+- Fixed the local time detection
+- Improved the password protection
+- Forced the M3U playlist generator to use the dinamic links as its link reference
+- Added a new option:  Enabled the F4M Tester 
+
+
+
+------------------------
+v1.0.4-r2  (2017/03/28)
+------------------------
+
+- Fixed a minor issue (cache related)
+
+
+
+
+---------------------
+v1.0.4  (2017/03/28)
+---------------------
+
+- Fixed the VOD channels
+
+
+
+
+---------------------
+v1.0.3  (2017/03/28)
+---------------------
+
+- Removed the default view mode codes
+
+- Improved all the cache system
+especially for the vod caches
+
+- Improved the parental control for all adult contents
+
+
+
+
+---------------------
+v1.0.2  (2017/03/27)
+---------------------
+
+- Fixed the TV genre filter
+Thanks to dara for noticing the bug
+
+
+
+
+---------------------
+v1.0.1  (2017/03/27)
+---------------------
+
+- Fixed some issues related with "Donation Based" accounts:
+	+ Added 'ALL' item for the genre options
+	+ Redefined the channel numbering (all foreign channels numbers are started with 5000)
+	+ Fixed language filter
+
+- Added adult contents filtering for M3U playlist
+
+- Created custom list file for any available portals
+The list can be customized by editing the 'Kodi/addons/plugin.video.potatoTV/resources/portals.list'
+
+- Fixed few minor issues
+
+
+
+
+---------------------
+v1.0.0  (2017/03/26)
+---------------------
+
+- Initial version
